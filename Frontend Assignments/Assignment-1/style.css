@@ -1,0 +1,56 @@
+.food{
+    background-color:rgb(36, 37, 38);
+    color: white;
+    padding: 10px;
+}
+
+body {
+    padding:0;
+    margin:0;
+}
+
+.menu h1{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.box1{
+    background-color: rgb(154, 153, 153);
+    float: left;
+    height: 380px;
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+img { 
+    width: 300px;
+    height: 380px;
+
+}
+
+.position {
+    float: left;
+    position: relative;
+    margin: 52px;
+}
+
+.position p {
+    position: absolute;
+    top: 60px;
+    left: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+.position p a {
+    color:red;
+}
+
